@@ -1,0 +1,10 @@
+THis script is for scraping serp for example you want to integrate the NLPs entities in your article for the specific keyword 
+
+so this script will perform the following tasks 
+
+1 it will read the article from your kw.txt file in root directory 
+2 it will search each keyword in your specific targeted country 
+3 it will extract the top competitor articles and put it into a single text file 
+4 it will create individual folder with the keyword folder name into a data folder which will be in your root directory 
+5 you can copy that each text file and check its NLP score and also extract the entities from all your competitors and put it into your prompt and article 
+6 also it will create another folder inside the main keyword name folder and that subfolder name will be single article files and it will put all the competitor article in a single txt file each competitor domain name without extension will be the name of that competitor text file 
